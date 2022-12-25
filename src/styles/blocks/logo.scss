@@ -1,9 +1,0 @@
-.logo {
-  &__img {
-    height: 46px;
-
-    @include onDevice(tablet) {
-      height: 65px;
-    }
-  }
-}
